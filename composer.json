@@ -1,13 +1,13 @@
 {
     "name": "ycl/test",
-    "description": "s\b",
+    "description": "s",
+    "license": "MIT",
     "authors": [
         {
             "name": "John Smith",
-            "email": "john@example.com"
+            "email": "2572214234@qq.com"
         }
     ],
     "require": {},
-    "licence": "MIT",
     "version": "1.0.0"
 }
