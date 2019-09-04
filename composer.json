@@ -7,5 +7,6 @@
             "email": "john@example.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "licence": "MIT"
 }
